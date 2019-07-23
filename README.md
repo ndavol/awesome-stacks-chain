@@ -13,6 +13,12 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 
 ## Apps
 
+* **[Graphite](https://www.graphitedocs.com/):** A decentralized alternative for replacing the Google suite
+  * [`@jehunter5811`](https://github.com/jehunter5811)
+* **[Souq](https://cryptocracy.io/):** Crowdfunding platform for public work
+  * [`@cryptocracy`](https://github.com/cryptocracy)
+
+
 ## Libraries
 
 * **[`blockstack.go`](https://github.com/jackzampolin/blockstack.go):** A high-performance Go library for working with Blockstack
@@ -29,7 +35,7 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 
 * **[Official Blockstack Forum](https://forum.blockstack.org):** Blockstack community forum
 
-* **[Blockstack Portland](https://meetup.com/blockstack-portland):** Portland, OR Blockstack community
+* **[Meetup.com](https://www.meetup.com/topics/blockstack/all):** Meetup groups world wide
 
 * **[Evangelist Toolkit](https://forum.blockstack.org/t/evangelist-toolkit/4969):** Information for Blockstack Evangelists
 
