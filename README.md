@@ -20,8 +20,8 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 * **[OmniAuth Blockstack plugin](https://github.com/blockstack/omniauth-blockstack):** OmniAuth plugin
 * **[CompassDB](https://github.com/eder-ai/compass-db):** A library for managing advanded collections in Gaia storage
 * **[Radiks](https://github.com/blockstack-radiks/):** Client and server frameworks indexing data in decentralized applications
-* **[lens-file-source](https://gitlab.com/MyLens/lens-file-source):** File storage abstraction through mechanisms like caching, transactions and JSON map aggregation.  
-* **[GaiaDown](https://github.com/AcidLeroy/gaiadown-ts):** [Gaia](https://github.com/blockstack/gaia) storage backend for [LevelUP](https://github.com/Level/levelup).
+* **[lens-file-source](https://gitlab.com/MyLens/lens-file-source):** File storage abstraction through mechanisms like caching, transactions and JSON map aggregation for Gaia.  
+* **[GaiaDown](https://github.com/AcidLeroy/gaiadown-ts):** Gaia storage backend for [LevelUP](https://github.com/Level/levelup).
 
 
 ## Community
