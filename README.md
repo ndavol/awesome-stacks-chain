@@ -22,6 +22,7 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 * **[Radiks](https://github.com/blockstack-radiks/):** Client and server frameworks indexing data in decentralized applications
 * **[lens-file-source](https://gitlab.com/MyLens/lens-file-source):** File storage abstraction through mechanisms like caching, transactions and JSON map aggregation for Gaia.  
 * **[GaiaDown](https://github.com/AcidLeroy/gaiadown-ts):** Gaia storage backend for [LevelUP](https://github.com/Level/levelup).
+* **[Express-Blockstack-Auth](https://gitlab.com/MyLens/express-blockstack-auth):** [Express](https://github.com/expressjs/express) middleware for Blockstack authentication.
 
 
 ## Community
