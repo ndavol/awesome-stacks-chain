@@ -45,3 +45,4 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 * **[VueJS](https://github.com/turinglabsorg/Vuejs-Blockstack):** Project template for Vue.js with Blockstack
 * **[Blockstack App Generator](https://github.com/blockstack/blockstack-app-generator):** Yeoman generator
 * **[Nuxt](https://github.com/iwouldrathercode/nuxt-blockstack-starter):** A blockstack boilerplate built on [nuxt](https://nuxtjs.org/)
+* **[Blockstack Angular](https://github.com/BlockSurvey/blockstack-angular):** A blockstack boilerplate for angular
