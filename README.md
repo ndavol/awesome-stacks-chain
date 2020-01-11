@@ -12,17 +12,23 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 * **[App Center](https://app-center.openintents.org/):** [Open source](https://gitlab.com/friedger/app-center) app with app reviews and user comments.
 
 ## Libraries
-
-* **[`blockstack.go`](https://github.com/jackzampolin/blockstack.go):** A high-performance Go library for working with Blockstack
+### Authentication + Storage
 * **[`blockstack.js`](https://github.com/blockstack/blockstack.js):** The official JavaScript library for building apps with Blockstack with Typescript support
+* **[`react-blockstack`](https://github.com/njordhov/react-blockstack)**: React Hooks for Blockstack
+* **[`blockstack.go`](https://github.com/jackzampolin/blockstack.go):** A high-performance Go library for working with Blockstack
 * **[Blockstack Pascal](https://github.com/blackholeorganization/BlockstackPascal):** Library for Pascal
+
+### Authentication only
 * **[Blockstack WordPress](https://github.com/saul-avikar/wordpress-blockstack-sso):** Authentication plugin for WordPress
 * **[OmniAuth Blockstack plugin](https://github.com/blockstack/omniauth-blockstack):** OmniAuth plugin
+* **[Express-Blockstack-Auth](https://gitlab.com/MyLens/express-blockstack-auth):** [Express](https://github.com/expressjs/express) middleware for Blockstack authentication for express server.
+
+### Storage only
+* **[StorageStack](https://github.com/jorishermans/storagestack):** A decentralized storage abstraction middleware framework (supports Blockstack, IPFS, Localstorage, Memory)
 * **[CompassDB](https://github.com/eder-ai/compass-db):** A library for managing advanded collections in Gaia storage
 * **[Radiks](https://github.com/blockstack-radiks/):** Client and server frameworks indexing data in decentralized applications
 * **[lens-file-source](https://gitlab.com/MyLens/lens-file-source):** File storage abstraction through mechanisms like caching, transactions and JSON map aggregation for Gaia.  
 * **[GaiaDown](https://github.com/AcidLeroy/gaiadown-ts):** Gaia storage backend for [LevelUP](https://github.com/Level/levelup).
-* **[Express-Blockstack-Auth](https://gitlab.com/MyLens/express-blockstack-auth):** [Express](https://github.com/expressjs/express) middleware for Blockstack authentication.
 
 
 ## Community
@@ -33,12 +39,11 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 * **[Evangelist Toolkit](https://forum.blockstack.org/t/evangelist-toolkit/4969):** Information for Blockstack Evangelists
 
 ## Tutorials
-
 * **[Official Tutorials](https://blockstack.org/tutorials):** Official tutorials from the Blockstack team.  Hello Blockstack, ToDo, Managing Data with Gaia, Multi-player Storage, From Zero to Dapp
-
 * **[Blockstack + React Videos](https://www.youtube.com/playlist?list=PLDQHh6RjV5oUJNbtnzV11VVghiJTPJ5Wv):** 22 videos made by Tech Rally from introduction to deployment.
-## Starter Kits
 
+## Starter Kits
+* **[REBL-Stack](https://github.com/REBL-Stack/starter-app):** A starter app for Blockstack using React hooks
 * **[`react-blockstack-redux-bundler`](https://github.com/aulneau/react-blockstack-redux-bundler):** A starter repo for building Blockstack applications in React with redux-bundler and webpack 4. 
 * **[`blockstack-create-react-app`](https://github.com/benoror/blockstack-create-react-app):** A basic starter kit for building Blockstack apps using Create React App
 * **[`gatsby-starter-blockstack`](https://github.com/friedger/gatsby-starter-blockstack):** A starter library for Gatsbyjs.org
