@@ -55,6 +55,12 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 
 - **[@stacks/cli](https://github.com/blockstack/stacks.js/tree/master/packages/cli):** Command line interface for interacting with auth, storage, and transactions
 
+### Storage
+
+- **[CompassDB](https://github.com/eder-ai/compass-db):** A library for managing advanced collections in Gaia storage
+- **[lens-file-source](https://gitlab.com/MyLens/lens-file-source):** File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia
+- **[GaiaDown](https://github.com/AcidLeroy/gaiadown-ts):** Gaia storage backend for [LevelUp](https://github.com/Level/levelup)
+
 ## NFTs
 
 - **[This is #1](https://www.thisisnumberone.com):** The first NFT built on Bitcoin and the Stacks blockchain ([contract](https://explorer.stacks.co/txid/SP3QSAJQ4EA8WXEDSRRKMZZ29NH91VZ6C5X88FGZQ.thisisnumberone-v2?chain=mainnet))
