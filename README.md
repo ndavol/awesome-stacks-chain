@@ -54,6 +54,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ### Developer Tools
 
 - [Clarinet](https://github.com/lgalabru/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+- [Clarigen](https://github.com/obylabs/clarigen) - A tool for writing Typescript code that interacts with Clarity smart contracts.
 - [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 - [search-clarity.dev](https://search-clarity.dev) - An application for searching for deployed Clarity contracts.
 
