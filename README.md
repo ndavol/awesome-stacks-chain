@@ -2,11 +2,7 @@
 
 [![Awesome Stacks](img/awesome-stacks.png 'Awesome Stacks')](https://www.stacks.co)
 
-A curated list of awesome `$things` around [Stacks](https://www.stacks.co).
-
 A blockchain anchored by Bitcoin that enables apps, smart contracts, and digital assets.
-
-_Please read the [contribution guidelines](contributing.md) before contributing._
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -126,3 +122,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Twitter](https://twitter.com/stacks) - Stacks ecosystem Twitter.
 - [Official Stacks Forum](https://forum.stacks.org/) - Stacks community forum.
 - [r/stacks](https://www.reddit.com/r/stacks) - Stacks subreddit.
+
+## Contributing
+
+We welcome community contributions to this list. Please read the [contribution guidelines](contributing.md) before contributing.
