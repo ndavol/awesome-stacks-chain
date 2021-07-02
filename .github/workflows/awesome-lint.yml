@@ -26,4 +26,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: awesome-lint versionless
-        run: npx -y awesome-lint README.md
+        run: npx -y awesome-lint ./README.md
