@@ -26,7 +26,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: awesome-lint versionless
-        uses: jthegedus/github-action-awesome-lint@v0.1.0
-        with:
-          # awesome-lint package version you wish to use
-          awesome-lint-version: # optional, default is latest
+        run: npx -y awesome-lint readme.md
