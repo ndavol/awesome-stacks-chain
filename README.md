@@ -1,8 +1,8 @@
-# Awesome Stacks Chain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Stacks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Awesome Stacks](img/awesome-stacks.png 'Awesome Stacks')](https://www.stacks.co)
 
-A blockchain anchored by Bitcoin that enables apps, smart contracts, and digital assets.
+[Stacks](https://www.stacks.co/what-is-stacks) is a blockchain anchored by Bitcoin that enables apps, smart contracts, and digital assets. Stacks is a layer-1 blockchain that connects to Bitcoin and implements smart contracts and decentralized applications through the [Clarity language](https://clarity-lang.org/). Through the [Proof of Transfer (PoX) consensus mechanism](https://docs.stacks.co/understand-stacks/proof-of-transfer), the state of the Stacks blockchain is anchored against the Bitcoin blockchain, thus providing the security and finality of Bitcoin to Stacks. Stacks brings the programmability of other blockchain technologies to Bitcoin, without the need to modify the core consensus mechanism of Bitcoin itself.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -12,10 +12,10 @@ A blockchain anchored by Bitcoin that enables apps, smart contracts, and digital
 - [Apps](#apps)
   - [Wallets](#wallets)
   - [Stacks Web Applications](#stacks-web-applications)
-- [Awesome Clarity Resources](#awesome-clarity-resources)
+- [Clarity Resources](#clarity-resources)
   - [Developer Tools](#developer-tools)
   - [Libraries](#libraries)
-  - [Awesome Contracts](#awesome-contracts)
+  - [Contracts](#contracts)
   - [Non-Fungible Tokens](#non-fungible-tokens)
   - [Fungible Tokens](#fungible-tokens)
   - [Stacking](#stacking)
@@ -42,31 +42,31 @@ A blockchain anchored by Bitcoin that enables apps, smart contracts, and digital
 
 - [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) - An application for reviewing transactions on the Stacks blockchain.
 - [Boom.money](https://boom.money) - A web wallet focused on NFTs, and custom tokens.
-- [Send Many](https://stacks-send-many.pages.dev/) - An application to send stx to many recipients in one transaction.
+- [Send Many](https://stacks-send-many.pages.dev/) - An application to send STX to many recipients in one transaction.
 - [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend)).
 
-## Awesome Clarity Resources
+## Clarity Resources
 
 ### Developer Tools
 
-- [Clarinet](https://github.com/lgalabru/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-- [Clarigen](https://github.com/obylabs/clarigen) - A tool for writing Typescript code that interacts with Clarity smart contracts.
+- [Clarinet](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+- [Clarigen](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 - [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 - [search-clarity.dev](https://search-clarity.dev) - An application for searching for deployed Clarity contracts.
 
 ### Libraries
 
 - [uint256](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
-- [clarity-bitcoin](https://github.com/jcnelson/clarity-bitcoin) - A library to verify bitcoin transactions.
+- [clarity-bitcoin](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
 
-### Awesome Contracts
+### Contracts
 
 - [SWAPR](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 - [FLEXR](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
 - [ClarityDAO](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
 - [NFT Marketplace](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
 - [StackStarter](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
-- [Lightning Swaps](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning.
+- [Lightning Swaps](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
 - [Election Voting](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
 - [DualX](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 
@@ -83,7 +83,7 @@ A blockchain anchored by Bitcoin that enables apps, smart contracts, and digital
 
 - [stacking.club](https://stacking.club) - Stacking information and statistics.
 - [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
-- [PlanBetter pool](https://planbetter.org/) - Stacking pool with BTC rewards.
+- [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
 
 ## App Development
 
@@ -114,7 +114,7 @@ A blockchain anchored by Bitcoin that enables apps, smart contracts, and digital
 - [Clarity 101](https://youtu.be/lXJutQqDq3w) - Learn the basics of Clarity's design principles.
 - [Developer Registry 101](https://www.crowdcast.io/e/clarity-program) - Learn how to build a Clarity smart contract from scratch.
 - [How Clarity Prevents Common Smart Contract Vulnerabilities](https://www.youtube.com/watch?v=VYXhrwPsBws) - Explanation of Clarity's security princples.
-- [Proof of Transfer Whitepaper Reading with Muneeb Ali](https://www.youtube.com/watch?v=NY_eUrIcWOY&t=3s) - Overview of the PoX whitepaper from the author.
+- [Proof of Transfer Whitepaper Reading with Muneeb Ali](https://www.youtube.com/watch?v=NY_eUrIcWOY&t=3s) - Overview of the Proof of Transfer (PoX) whitepaper from the author.
 
 ## Community
 
