@@ -26,6 +26,7 @@
 - [Learning Resources](#learning-resources)
   - [Documentation](#documentation)
   - [Videos](#videos)
+  - [Books](#books)
 - [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -117,6 +118,10 @@
 - [Developer Registry 101](https://www.crowdcast.io/e/clarity-program) - Learn how to build a Clarity smart contract from scratch.
 - [How Clarity Prevents Common Smart Contract Vulnerabilities](https://www.youtube.com/watch?v=VYXhrwPsBws) - Explanation of Clarity's security princples.
 - [Proof of Transfer Whitepaper Reading with Muneeb Ali](https://www.youtube.com/watch?v=NY_eUrIcWOY&t=3s) - Overview of the Proof of Transfer (PoX) whitepaper from the author.
+
+### Books
+
+- [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. (early preview)
 
 ## Community
 
