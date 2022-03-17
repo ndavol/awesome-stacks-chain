@@ -121,7 +121,7 @@
 
 ### Books
 
-- [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. (early preview)
+- [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (early preview)
 
 ## Community
 
