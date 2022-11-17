@@ -6,12 +6,13 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 ## Contents
 
 - [Apps](#apps)
   - [Wallets](#wallets)
   - [Stacks Web Applications](#stacks-web-applications)
+  - [Blockchain Name System](#blockchain-name-system)
+  - [DeFi](#defi)
 - [Clarity Resources](#clarity-resources)
   - [Developer Tools](#developer-tools)
   - [Libraries](#libraries)
@@ -47,17 +48,17 @@
 - [MIA Block explorer](http://miamining.com) - A web application to exolore MIA coin transactions for all and personal accounts.
 - [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend)).
 
-#### Blockchain Name System
+### Blockchain Name System
 - [btc.us](https://btc.us) - An application for .btc names.
 - [stx.name](https://stx.name) - An application for BNS name registration (not open source).
 - [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
 - [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 - [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
-#### DeFi
-- [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
-- [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
-- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
+### DeFi
+- [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
+- [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
+- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 
 ## Clarity Resources
 
@@ -123,7 +124,7 @@
 
 - [Official Stacks documentation](https://docs.stacks.co/) - Documentation and developer tutorials for learning
   Clarity and developing Stacks apps.
-- [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers
+- [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers.
 - [Stacks 101](https://stacks101.com) - Community curated STX knowledge.
 
 ### Videos
@@ -147,3 +148,4 @@
 ## Contributing
 
 We welcome community contributions to this list. Please read the [contribution guidelines](contributing.md) before contributing.
+
