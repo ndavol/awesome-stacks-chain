@@ -51,7 +51,7 @@
 - [btc.us](https://btc.us) - An application for .btc names.
 - [stx.name](https://stx.name) - An application for BNS name registration (not open source).
 - [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
-- [BNS transfer)(https://www.bnstransfer.com) - An application to transfer BNS names.
+- [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 - [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
 #### DeFi
