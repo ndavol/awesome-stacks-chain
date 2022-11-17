@@ -57,6 +57,7 @@
 #### DeFi
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
+- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
 
 ## Clarity Resources
 
